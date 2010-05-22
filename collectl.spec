@@ -4,7 +4,7 @@ Name:		collectl
 Version:	2.5.1
 Release:	0.1
 License:	Artistic, GPL
-Group:		Applications/System
+Group:		Daemons
 Source0:	http://dl.sourceforge.net/collectl/%{name}-%{version}-src.tar.gz
 # Source0-md5:	eea1db0893ee9911bc9c10b1e7f687ac
 URL:		http://collectl.sourceforge.net
