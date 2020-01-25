@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.perl
 Summary:	A utility to collect various linux performance data
 Name:		collectl
 Version:	2.5.1
